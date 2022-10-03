@@ -7,9 +7,9 @@ import RightPanel from '../components/RightPanel'
 export default function Home() {
   return (
     <div className='flex justify-evenly'>
-      {/* <Head>
+      <Head>
         <title>Login / Sign Up</title>
-      </Head> */}
+      </Head>
       
         {/* Left Panel */}
         <div className='w-[40%] h-screen bg-[#FFFFFF]'>
