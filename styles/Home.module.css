@@ -108,6 +108,21 @@
   margin-left: 0.5rem;
 }
 
+.active{
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #EE6C4D;
+}
+
+.notActive{
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #3D5A80;
+  cursor: pointer;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
